@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgNumbers">#FEFAE0</color>
+    <color name="numbers">#7C6145</color>
+    <color name="bgCalc">#CCD5AE</color>
+    <color name="bgResult">#E9EDC9</color>
+    <color name="number_Result">#344e41</color>
+</resources>
